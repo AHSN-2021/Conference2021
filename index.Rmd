@@ -2,5 +2,4 @@
 site: blogdown:::blogdown_site
 ---
 
-
-Hello there Nick.
+HELLO NICK!
