@@ -1,6 +1,6 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
-title: Organising Committee
+title: Conference Program
 ---
 
-Here we can put our bios and pictures and related other things. 
+Program will be posted here closer to the conference. 
