@@ -23,11 +23,65 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/registration/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/registration/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/venue/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/venue/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/welcome/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/welcome/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>/keynotes/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/keynotes/</guid>
+      <description>Can post the call for papers here.</description>
+    </item>
+    
+    <item>
+      <title>Organising Committee</title>
+      <link>/abstract-submission/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/abstract-submission/</guid>
+      <description>Abstract submission coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Organising Committee</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Here we can put our bios and pictures and related other things.</description>
+    </item>
+    
+    <item>
+      <title>Organising Committee</title>
+      <link>/program/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/program/</guid>
+      <description>Here we can put our bios and pictures and related other things.</description>
     </item>
     
     <item>

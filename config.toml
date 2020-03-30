@@ -10,17 +10,33 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Welcome"
+    url = "/welcome/"
 [[menu.main]]
-    name = "Call for Papers"
-    url = "/cfp/"
-    #url = "https://github.com/rstudio/blogdown"
+    name = "Venue"
+    url = "/venue/"
+
+    
+[[menu.main]]
+    name = "Keynote Speakers"
+    url = "/keynotes/"
 
 [[menu.main]]
-    name = "AHSN 2021 Organising Committee"
-    url = "/organising-committee/"
-    #url = "https://twitter.com/rstudio"
+    name = "Submit Abstract"
+    url = "/abstract-submission/"
+
+[[menu.main]]
+    name = "Conference Registration"
+    url = "/registration/"
+
+[[menu.main]]
+    name = "Conference Program"
+    url = "/program/"
+
+[[menu.main]]
+    name = "Cotact"
+    url = "/contact/"
+
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -43,7 +59,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-
-
-
-Testing testing testing!!!!
