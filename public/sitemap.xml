@@ -3,27 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/welcome/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/registration/</loc>
+    <loc>/registration/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/venue/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/welcome/welcome/</loc>
+    <loc>/venue/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
@@ -33,57 +28,62 @@
   </url>
   
   <url>
-    <loc>/welcome/keynotes/</loc>
+    <loc>/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/abstract-submission/</loc>
+    <loc>/keynotes/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/program/</loc>
+    <loc>/abstract-submission/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/categories/</loc>
+    <loc>/program/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/2015/07/23/hello-r-markdown/</loc>
+    <loc>/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/welcome/2015/01/01/lorem-ipsum/</loc>
+    <loc>/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   

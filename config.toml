@@ -1,4 +1,4 @@
-baseurl = "/welcome/"
+baseurl = "https://ahsn-conference-2021.netlify.com/"
 languageCode = "en-us"
 title = "AHSN 2021"
 theme = "hugo-lithium"
