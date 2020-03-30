@@ -1,11 +1,11 @@
 ---
 draft: true
-title: AHSN 2021 Conference
+title: 
 ---
-
-27th AHSN CONFERENCE
-3-5 FEBRUARY 2021
+![caption goes here](/ahsn-2021-conf.png)
+## 27th Australasian Humour Studies Network Conference
+***
+3-5 Februrary, 2021  
 Massey University, Wellington, New Zealand
 
 
-![caption goes here](/ahsn-2021-conf.png)
