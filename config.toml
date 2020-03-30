@@ -13,11 +13,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "Call for Papers"
+    url = "/cfp/"
+    #url = "https://github.com/rstudio/blogdown"
+
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "AHSN 2021 Organising Committee"
+    url = "/organising-committee/"
+    #url = "https://twitter.com/rstudio"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -34,6 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # path to the favicon, under "static"
     favicon = "favicon.ico"
 
+    # Logo is under PUBLIC -- IMAGES
     [params.logo]
     url = "logo.png"
     width = 50
