@@ -1,6 +1,6 @@
 baseURL: https://ahsn-conference-2021.netlify.com/
 languageCode: en-us
-title: Vanilla
+title: AHSN 2021 Conference Website
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 

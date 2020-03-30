@@ -8,4 +8,4 @@ title: AHSN 2021 Conference
 Massey University, Wellington, New Zealand
 
 
-![caption goes here](/static/ahsn-2021-conf.png)
+![caption goes here](/ahsn-2021-conf.png)
