@@ -81,15 +81,6 @@ She then wanted to range through her pages by their weight, like so:
     
     <item>
       <title>About</title>
-      <link>/venue/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/venue/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
       <link>/welcome/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
@@ -122,6 +113,15 @@ She then wanted to range through her pages by their weight, like so:
       
       <guid>/registration/</guid>
       <description>A link to conference registration will be posted here when it is available.</description>
+    </item>
+    
+    <item>
+      <title>Venue and Travel</title>
+      <link>/venue/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/venue/</guid>
+      <description>Wellington!!</description>
     </item>
     
     <item>
