@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/welcome/"
 languageCode = "en-us"
 title = "AHSN 2021"
 theme = "hugo-lithium"
@@ -9,14 +9,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
-[[menu.main]]
-    name = "Welcome"
-    url = "/welcome/"
+#[[menu.main]]
+ #   name = "Welcome"
+  #  url = "/welcome/"
+
 [[menu.main]]
     name = "Venue"
     url = "/venue/"
 
-    
 [[menu.main]]
     name = "Keynote Speakers"
     url = "/keynotes/"
@@ -33,13 +33,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Conference Program"
     url = "/program/"
 
-[[menu.main]]
-    name = "Cotact"
-    url = "/contact/"
-
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Website for the 2021 AHSN Conference"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
