@@ -10,6 +10,8 @@ taxonomies:
 permalinks:
   post: /:filename/
 
+
+
 # See https://feathericons.com/
 # The value of pre is the icon name
 menu:
@@ -26,17 +28,17 @@ menu:
     pre: message-circle
     url: /keynotes/
     weight: 3
-  - name: Submit Abstract
+  - name: Abstract Submission
     pre: clipboard
     url: /abstract-submission/
     weight: 4
   - name: Registration
     pre: user-plus
-    url: /registration/
+    url: /register/
     weight: 5
   - name: Program
     pre: book-open
-    url: /program/
+    url: /conf_program/
     weight: 6
   - name: Contact
     pre: help-circle
@@ -49,7 +51,7 @@ menu:
 params:
   includeBootstrapJs: false
   showActiveNav: true
-  containerMaxWidth: 700px
+  containerMaxWidth: 1200px
   dateFormat: Jan 2, 2006
   homeText: 
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
@@ -86,3 +88,6 @@ markup:
   tableOfContents:
     endLevel: 6
     startLevel: 2
+
+
+
