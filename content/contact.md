@@ -3,4 +3,9 @@
 title: Contact
 ---
 
-If you have any questions about the conference please contact the organising committee at [email]
+If you have any questions about the conference please contact the organising committee at 2021AHSN@gmail.com.
+
+
+#### **Conference Organisers**
+Massey University: Nicholas Holm, Bryce Galloway\
+Victoria University of Wellington: Meredith Marra, Stephen Skalicky
