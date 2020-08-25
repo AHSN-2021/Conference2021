@@ -6,6 +6,18 @@ All proposals will be blind reviewed by members of the AHSN Review Panel. If you
 
 Any other enquires regarding the event should also be addressed to 2021AHSN@gmail.com. 
 
+**From the Organising Committee**
+
+Unfortunately, due to ongoing travel restrictions in response to the global pandemic, the organising committee for the 2021 AHSN conference has needed to reassess the status of the event. In light of recent outbreaks in both Australia and New Zealand, we are no longer confident that we will be able to host a TransTasman event in February of next year.
+
+We have therefore made the difficult decision to split the conference into two interconnected events:
+* The first will be a two-day physical meeting open to delegates resident in New Zealand.
+* The second will be an online event for Australian and International delegates.
+
+The online event will be primarily asynchronous in order to account for multiple time zones, but will also include additional synchronous discussion where possible. The conference will be planned to facilitate communication between the two interconnected events. A small registration fee will be charged for the virtual event, but this will be substantially less than that for the physical event.
+
+In addition, with the establishment of an online component for the conference we are now happy to invite international presenters to virtually ‘attend’ the event.
+
 Important dates
 
 **Submission of abstracts opens: 15 May 2020**
