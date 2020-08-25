@@ -10,11 +10,11 @@ Important dates
 
 **Submission of abstracts opens: 15 May 2020**
 
-Close of submissions considered for Research Scholarships: 1 August 2020
+Close of submissions considered for Research Scholarships: 1 September 2020
 
-Close of general submissions: 1 September 2020
+Close of general submissions: 1 October 2020
 
-Notifications of acceptance: 28 September 2020
+Notifications of acceptance: 31 October 2020
 
 #### Call for Papers
 Although often imagined to be aligned with the leisurely or the everyday—something to be pursued for its own sake and own pleasures—in practice, humour is often big business. Whether understood in terms of the international comedy industry, the role of humour in corporate contexts, or its instrumentalist application in a range of industries and activities, humour can be alternately lucrative or costly. Moreover, comedy is not just profitable, but also often shaped by profits as new technologies, institutions and economies change the way we laugh. From the rise of the Netflix stand-up comedy special to the advent of a new breed of online celebrity-comedians, shifts in political economy have had consequences not just for where and when we consume comedy, but also for the types of humour that circulate and which of them can find an audience.
