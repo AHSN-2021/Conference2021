@@ -8,9 +8,9 @@ Any other enquires regarding the event should also be addressed to 2021AHSN@gmai
 
 
 ### New Dates, New Model, Student Scholarships – important updates!!  
-3-4 February 2021*
-Massey University, Wellington Campus, Aotearoa New Zealand
-*please note the change in dates from the original CFP
+**3-4 February 2021***  
+Massey University, Wellington Campus, Aotearoa New Zealand  
+  *please note the change in dates from the original CFP  
 
 **Final Extension – October 9 2020** 
 
