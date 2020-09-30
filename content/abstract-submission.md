@@ -6,7 +6,26 @@ All proposals will be blind reviewed by members of the AHSN Review Panel. If you
 
 Any other enquires regarding the event should also be addressed to 2021AHSN@gmail.com. 
 
-**From the Organising Committee**
+
+### New Dates, New Model, Student Scholarships – important updates!!  
+3-4 February 2021*
+Massey University, Wellington Campus, Aotearoa New Zealand
+*please note the change in dates from the original CFP
+
+**Final Extension – October 9 2020** 
+
+Due to problems with the submissions section of the Association website, applicants may have encountered problems when trying to submit an abstract in the first few weeks of September. These problems have now been resolved, and in light of these problems the organising committee has decided to extend the submission period by an additional week.
+
+In addition, thanks to a generous donation, we are able to offer additional student scholarships to cover registration fees for in person or online participation. 
+
+Priority will be given to:
+1.	Applicants from Māori, Pacific or Aboriginal backgrounds
+2.	Those working in the area of humour and the workplace
+3.	Women and underrepresented genders 
+
+All students who submit abstracts will be deemed to have applied for these scholarships.
+
+**Travel Update** 
 
 Unfortunately, due to ongoing travel restrictions in response to the global pandemic, the organising committee for the 2021 AHSN conference has needed to reassess the status of the event. In light of recent outbreaks in both Australia and New Zealand, we are no longer confident that we will be able to host a TransTasman event in February of next year.
 
@@ -20,11 +39,11 @@ In addition, with the establishment of an online component for the conference we
 
 Important dates
 
-**Submission of abstracts opens: 15 May 2020**
+~~Submission of abstracts opens: 15 May 2020~~
 
-Close of submissions considered for Research Scholarships: 1 September 2020
+~~Close of submissions considered for Research Scholarships: 1 September 2020~~
 
-Close of general submissions: 1 October 2020
+**Close of general submissions: 9 October 2020**
 
 Notifications of acceptance: 31 October 2020
 
