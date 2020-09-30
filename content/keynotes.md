@@ -4,7 +4,6 @@ title: Keynote Speakers
 ---
 
 
-### Confirmed Keynote Speakers ###
 **International/Online**: Dr Christelle Pare (Research & Development, Just for Laughs/Juste pour Rire)  
 **New Zealand**: Dr Barbara Plester (Senior Lecturer of Management, University of Auckland)
 
