@@ -2,6 +2,11 @@
 #date: "2016-05-05T21:48:51-07:00"
 title: Abstract Submission
 ---
+
+<h1 style = 'color: red'>Abstract submission is now closed</h1>
+Registeration is now open!
+
+----------------------------------------------------------------------------------------------------
 All proposals will be blind reviewed by members of the AHSN Review Panel. If you are interested in presenting at the conference, please submit a 250 word abstract with your name, e-mail address, and affiliation through the AHSN website submission portal at https://ahsn.org.au/abstracts/.  
 
 Any other enquires regarding the event should also be addressed to 2021AHSN@gmail.com. 
@@ -43,9 +48,9 @@ Important dates
 
 ~~Close of submissions considered for Research Scholarships: 1 September 2020~~
 
-**Close of general submissions: 9 October 2020**
+~~Close of general submissions: 9 October 2020~~
 
-Notifications of acceptance: 31 October 2020
+~~Notifications of acceptance: 31 October 2020~~
 
 #### Call for Papers
 Although often imagined to be aligned with the leisurely or the everyday—something to be pursued for its own sake and own pleasures—in practice, humour is often big business. Whether understood in terms of the international comedy industry, the role of humour in corporate contexts, or its instrumentalist application in a range of industries and activities, humour can be alternately lucrative or costly. Moreover, comedy is not just profitable, but also often shaped by profits as new technologies, institutions and economies change the way we laugh. From the rise of the Netflix stand-up comedy special to the advent of a new breed of online celebrity-comedians, shifts in political economy have had consequences not just for where and when we consume comedy, but also for the types of humour that circulate and which of them can find an audience.
