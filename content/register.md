@@ -17,8 +17,9 @@ Online Presenter (Unwaged/student/under-employed)| |$30
 Earlybird In-person Attendee (Waged/Faculty)| |$300  
 Earlybird In-person Attendee (Unwaged/student/under-employed)| |$220  
 In-person Attendee (Waged/Faculty)| |$350  
-In-person Attendee (Unwaged/student/under-employed)| |$250  
+In-person Attendee (Unwaged/student/under-employed)| |$250 
 -----------------
+
 
 
 
